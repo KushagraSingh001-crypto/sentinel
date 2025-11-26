@@ -1,0 +1,37 @@
+[
+  {
+    "userId": "usr_threat001",
+    "timestamp": "2025-11-15T14:30:00Z",
+    "severity": "HIGH",
+    "description": "Multiple SQL injection attempts detected",
+    "blockchainTxHash": "0x1234567890abcdef1234567890abcdef12345678"
+  },
+  {
+    "userId": "usr_threat002",
+    "timestamp": "2025-11-15T14:25:00Z",
+    "severity": "CRITICAL",
+    "description": "Attempted model extraction via rate limiting bypass",
+    "blockchainTxHash": "0xabcdef1234567890abcdef1234567890abcdef12"
+  },
+  {
+    "userId": "usr_threat003",
+    "timestamp": "2025-11-15T14:20:00Z",
+    "severity": "MEDIUM",
+    "description": "Suspicious query pattern detected",
+    "blockchainTxHash": "0x567890abcdef1234567890abcdef1234567890ab"
+  },
+  {
+    "userId": "usr_threat004",
+    "timestamp": "2025-11-15T14:15:00Z",
+    "severity": "HIGH",
+    "description": "Password cracking attempt - hacking query",
+    "blockchainTxHash": "0xcdef1234567890abcdef1234567890abcdef1234"
+  },
+  {
+    "userId": "usr_threat005",
+    "timestamp": "2025-11-15T14:10:00Z",
+    "severity": "CRITICAL",
+    "description": "Repeated unauthorized access attempts",
+    "blockchainTxHash": "0xef1234567890abcdef1234567890abcdef123456"
+  }
+]

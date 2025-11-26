@@ -1,0 +1,20 @@
+{
+  "hardhat": {
+    "network": "hardhat",
+    "chainId": "31337",
+    "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "deployerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "deploymentTimestamp": "2025-11-14T18:58:46.201Z",
+    "transactionHash": "0xed7b9740c642b4ca2d63b4c9eefcd01eb0b820c0245ae16eb96b30a967c4b5b8",
+    "blockNumber": 1
+  },
+  "localhost": {
+    "network": "localhost",
+    "chainId": "31337",
+    "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "deployerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "deploymentTimestamp": "2025-11-14T19:08:38.234Z",
+    "transactionHash": "0x3c1bf6557d241d990ebf38f9f97ea3e5e05938de06156710de8616fc2e2c7287",
+    "blockNumber": 1
+  }
+}
